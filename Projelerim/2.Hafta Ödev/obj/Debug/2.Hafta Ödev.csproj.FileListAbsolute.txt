@@ -1,0 +1,10 @@
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\obj\Debug\2.Hafta Ödev.csproj.AssemblyReference.cache
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\obj\Debug\StudentManagement.Form1.resources
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\obj\Debug\_2.Hafta_Ödev.Properties.Resources.resources
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\obj\Debug\2.Hafta Ödev.csproj.GenerateResource.cache
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\obj\Debug\2.Hafta Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\bin\Debug\2.Hafta Ödev.exe.config
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\bin\Debug\2.Hafta Ödev.exe
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\bin\Debug\2.Hafta Ödev.pdb
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\obj\Debug\2.Hafta Ödev.exe
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\2.Hafta Ödev\obj\Debug\2.Hafta Ödev.pdb

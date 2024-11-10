@@ -1,0 +1,7 @@
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\10.Hafta Ödevi\bin\Debug\10.Hafta Ödevi.exe.config
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\10.Hafta Ödevi\bin\Debug\10.Hafta Ödevi.exe
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\10.Hafta Ödevi\bin\Debug\10.Hafta Ödevi.pdb
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\10.Hafta Ödevi\obj\Debug\10.Hafta Ödevi.csproj.AssemblyReference.cache
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\10.Hafta Ödevi\obj\Debug\10.Hafta Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\10.Hafta Ödevi\obj\Debug\10.Hafta Ödevi.exe
+C:\Users\Belgelerim\source\repos\5.hafta_ödev\10.Hafta Ödevi\obj\Debug\10.Hafta Ödevi.pdb
